@@ -58,7 +58,7 @@ public class ManagerDashboard extends Application {
         // Show default dashboard content
         showDashboardContent();
 
-        Scene scene = new Scene(root, 1400, 900);
+        Scene scene = new Scene(root, 1200 , 700);
         stage.setScene(scene);
         stage.setTitle("GAWE - Manager Dashboard");
         stage.show();

@@ -59,7 +59,7 @@ public class HRDashboard extends Application {
         // Show default dashboard content
         showDashboardContent();
 
-        Scene scene = new Scene(root, 1500, 900);
+        Scene scene = new Scene(root, 1200 , 700);
         stage.setScene(scene);
         stage.setTitle("GAWE - HR Dashboard");
         stage.show();

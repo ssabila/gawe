@@ -71,7 +71,7 @@ class LoginPage extends Application {
         mainContainer.getChildren().addAll(titleLabel, subtitleLabel, formContainer);
 
         // Create and show scene
-        Scene scene = new Scene(mainContainer, 500, 600);
+        Scene scene = new Scene(mainContainer, 1200, 700);
         stage.setScene(scene);
         stage.setTitle("GAWE - Employee Management System");
         stage.show();
