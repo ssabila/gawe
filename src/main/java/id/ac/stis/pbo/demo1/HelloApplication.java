@@ -12,7 +12,7 @@ import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
 
 /**
- * tugas kelompok 9 anjay
+ * tugas kelompok 9 anjay keren banget nich xixiix
  * TUGAS KELOMPOK - SISTEM MANAJEMEN PEGAWAI GAWE
  *
  * Pembagian Tugas:
