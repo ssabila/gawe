@@ -12,7 +12,7 @@ import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
 // tes mario
 /**
- * tugas kelompok 9 anjay keren banget nich xixiix MARIO GANTENG BANGET
+ * tugas kelompok 9 anjay keren banget nich xixiix MARIO GANTENG BANGET parahhh cuyyy
  * TUGAS KELOMPOK - SISTEM MANAJEMEN PEGAWAI GAWE
  *
  * Pembagian Tugas:
