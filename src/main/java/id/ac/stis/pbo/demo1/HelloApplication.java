@@ -10,7 +10,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
-// tes mario
+// tes dummy
 /**
  * tugas kelompok 9 anjay keren banget nich xixiix MARIO GANTENG BANGET parahhh cuyyy
  * TUGAS KELOMPOK - SISTEM MANAJEMEN PEGAWAI GAWE
